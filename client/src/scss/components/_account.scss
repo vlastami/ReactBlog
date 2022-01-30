@@ -1,0 +1,14 @@
+.account {
+	height: calc(100vh - 8rem);
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	&__section {
+		width: 70%;
+	}
+}
+.logo{
+	font-size: 24px;
+	font-weight: lighter;
+}
